@@ -1,0 +1,331 @@
+@article{Tobin2025_GenoPath,
+  author  = {Tobin, R. M. and Singh, S. and Kumar, S. and Miura, S.},
+  title   = {GenoPath: a pipeline to infer tumor clone composition, mutational history, and metastatic cell migration events from tumor DNA sequencing data},
+  journal = {Frontiers in Bioinformatics},
+  year    = {2025},
+  volume  = {5},
+  pages   = {1615834},
+  doi     = {10.3389/fbinf.2025.1615834}
+}
+
+@article{Pepe2025_PANDA,
+  author  = {Pepe, G. and others},
+  title   = {PANDA: PAN Cancer Data Analysis Web Tool},
+  journal = {Journal of Molecular Biology},
+  year    = {2025},
+  volume  = {437},
+  number  = {15},
+  pages   = {169158},
+  doi     = {10.1016/j.jmb.2025.169158}
+}
+
+@article{ElKamand2024_CRUX,
+  author  = {El-Kamand, S. and Quinn, J. M. W. and Sareen, H. and Becker, T. M. and Wong-Erasmus, M. and Cowley, M. J.},
+  title   = {CRUX, a platform for visualising, exploring and analysing cancer genome cohort data},
+  journal = {NAR Genomics and Bioinformatics},
+  year    = {2024},
+  volume  = {6},
+  number  = {1},
+  pages   = {lqae003},
+  doi     = {10.1093/nargab/lqae003}
+}
+
+@article{Deyell2024_POG,
+  author  = {Deyell, R. J. and others},
+  title   = {Whole genome and transcriptome integrated analyses guide clinical care of pediatric poor prognosis cancers},
+  journal = {Nature Communications},
+  year    = {2024},
+  volume  = {15},
+  pages   = {48363},
+  doi     = {10.1038/s41467-024-48363-5}
+}
+
+@article{Behera2024_DRAGEN,
+  author  = {Behera, S. and others},
+  title   = {Comprehensive genome analysis and variant detection at scale using DRAGEN},
+  journal = {Nature Biotechnology},
+  year    = {2025},
+  volume  = {43},
+  number  = {7},
+  pages   = {1177--1191},
+  doi     = {10.1038/s41587-024-02382-1}
+}
+
+@article{OConnell2023_Parabricks,
+  author  = {O'Connell, K. A. and others},
+  title   = {Accelerating genomic workflows using NVIDIA Parabricks},
+  journal = {BMC Bioinformatics},
+  year    = {2023},
+  volume  = {24},
+  pages   = {342},
+  doi     = {10.1186/s12859-023-05292-2}
+}
+
+@article{Galaxy2022_Update,
+  author  = {The Galaxy Community},
+  title   = {The Galaxy platform for accessible, reproducible and collaborative biomedical analyses: 2022 update},
+  journal = {Nucleic Acids Research},
+  year    = {2022},
+  volume  = {50},
+  pages   = {W345--W351},
+  doi     = {10.1093/nar/gkac247}
+}
+
+@article{Sithara2022_iCOMIC,
+  author  = {Anilkumar Sithara, A. and others},
+  title   = {iCOMIC: A graphical interface-driven bioinformatics pipeline for analyzing cancer omics data},
+  journal = {NAR Genomics and Bioinformatics},
+  year    = {2022},
+  volume  = {4},
+  number  = {3},
+  pages   = {lqac053},
+  doi     = {10.1093/nargab/lqac053}
+}
+
+@article{Danecek2021_SAMtoolsBCFtools,
+  author  = {Danecek, P. and others},
+  title   = {Twelve years of SAMtools and BCFtools},
+  journal = {GigaScience},
+  year    = {2021},
+  volume  = {10},
+  number  = {2},
+  pages   = {giab008},
+  doi     = {10.1093/gigascience/giab008}
+}
+
+@article{He2021_DIVIS,
+  author  = {He, X. and others},
+  title   = {DIVIS: Integrated and Customizable Pipeline for Cancer Genome Sequencing Analysis and Interpretation},
+  journal = {Frontiers in Oncology},
+  year    = {2021},
+  volume  = {11},
+  pages   = {672597},
+  doi     = {10.3389/fonc.2021.672597}
+}
+
+@article{Moelder2021_Snakemake,
+  author  = {Mölder, F. and others},
+  title   = {Sustainable data analysis with Snakemake},
+  journal = {F1000Research},
+  year    = {2021},
+  volume  = {10},
+  pages   = {33},
+  doi     = {10.12688/f1000research.29032.2}
+}
+
+@article{Ewels2020_nfcore,
+  author  = {Ewels, P. A. and others},
+  title   = {The nf-core framework for community-curated bioinformatics pipelines},
+  journal = {Nature Biotechnology},
+  year    = {2020},
+  volume  = {38},
+  number  = {3},
+  pages   = {276--278},
+  doi     = {10.1038/s41587-020-0439-x}
+}
+
+@article{Korhonen2019_CWL,
+  author  = {Korhonen, P. K. and Hall, R. S. and Young, N. D. and Gasser, R. B.},
+  title   = {Common workflow language (CWL)-based software pipeline for de novo genome assembly from long- and short-read data},
+  journal = {GigaScience},
+  year    = {2019},
+  volume  = {8},
+  number  = {4},
+  pages   = {giz014},
+  doi     = {10.1093/gigascience/giz014}
+}
+
+@article{Singer2018_NGSp,
+  author  = {Singer, J. and others},
+  title   = {NGS-pipe: A flexible, easily extendable and highly configurable framework for NGS analysis},
+  journal = {Bioinformatics},
+  year    = {2018},
+  volume  = {34},
+  number  = {1},
+  pages   = {107--108},
+  doi     = {10.1093/bioinformatics/btx540}
+}
+
+@article{Wingett2018_FastQScreen,
+  author  = {Wingett, S. W. and Andrews, S.},
+  title   = {FastQ Screen: A tool for multi-genome mapping and quality control},
+  journal = {F1000Research},
+  year    = {2018},
+  volume  = {7},
+  pages   = {1338},
+  doi     = {10.12688/f1000research.15931.2}
+}
+
+@article{Poplin2018_DeepVariant,
+  author  = {Poplin, R. and others},
+  title   = {A universal SNP and small-indel variant caller using deep neural networks},
+  journal = {Nature Biotechnology},
+  year    = {2018},
+  volume  = {36},
+  number  = {10},
+  pages   = {983--987},
+  doi     = {10.1038/nbt.4235}
+}
+
+@article{Vivian2017_Toil,
+  author  = {Vivian, J. and others},
+  title   = {Toil enables reproducible, open source, big biomedical data analyses},
+  journal = {Nature Biotechnology},
+  year    = {2017},
+  volume  = {35},
+  number  = {4},
+  pages   = {314--316},
+  doi     = {10.1038/nbt.3772}
+}
+
+@article{Lau2017_CGC,
+  author  = {Lau, J. W. and others},
+  title   = {The Cancer Genomics Cloud: Collaborative, Reproducible, and Democratized—A New Paradigm in Large-Scale Computational Research},
+  journal = {Cancer Research},
+  year    = {2017},
+  volume  = {77},
+  number  = {21},
+  pages   = {e3--e6},
+  doi     = {10.1158/0008-5472.CAN-17-0387}
+}
+
+@article{McLaren2016_VEP,
+  author  = {McLaren, W. and others},
+  title   = {The Ensembl Variant Effect Predictor},
+  journal = {Genome Biology},
+  year    = {2016},
+  volume  = {17},
+  pages   = {122},
+  doi     = {10.1186/s13059-016-0974-4}
+}
+
+@article{Ewels2016_MultiQC,
+  author  = {Ewels, P. and Magnusson, M. and Lundin, S. and Käller, M.},
+  title   = {MultiQC: Summarize analysis results for multiple tools and samples in a single report},
+  journal = {Bioinformatics},
+  year    = {2016},
+  volume  = {32},
+  number  = {19},
+  pages   = {3047--3048},
+  doi     = {10.1093/bioinformatics/btw354}
+}
+
+@article{Kim2015_HISAT,
+  author  = {Kim, D. and Langmead, B. and Salzberg, S. L.},
+  title   = {HISAT: A fast spliced aligner with low memory requirements},
+  journal = {Nature Methods},
+  year    = {2015},
+  volume  = {12},
+  number  = {4},
+  pages   = {357--360},
+  doi     = {10.1038/nmeth.3317}
+}
+
+@article{Bolger2014_Trimmomatic,
+  author  = {Bolger, A. M. and Lohse, M. and Usadel, B.},
+  title   = {Trimmomatic: A flexible trimmer for Illumina sequence data},
+  journal = {Bioinformatics},
+  year    = {2014},
+  volume  = {30},
+  number  = {15},
+  pages   = {2114--2120},
+  doi     = {10.1093/bioinformatics/btu170}
+}
+
+@article{VdAuwera2013_GATKBP,
+  author  = {Van der Auwera, G. A. and others},
+  title   = {From FastQ Data to High-Confidence Variant Calls: The Genome Analysis Toolkit Best Practices Pipeline},
+  journal = {Current Protocols in Bioinformatics},
+  year    = {2013},
+  volume  = {43},
+  pages   = {11.10.1--11.10.33},
+  doi     = {10.1002/0471250953.bi1110s43}
+}
+
+@article{Thorvaldsdottir2013_IGV,
+  author  = {Thorvaldsdottir, H. and Robinson, J. T. and Mesirov, J. P.},
+  title   = {Integrative Genomics Viewer (IGV): High-performance genomics data visualization and exploration},
+  journal = {Briefings in Bioinformatics},
+  year    = {2013},
+  volume  = {14},
+  number  = {2},
+  pages   = {178--192},
+  doi     = {10.1093/bib/bbs017}
+}
+
+@article{Dobin2013_STAR,
+  author  = {Dobin, A. and others},
+  title   = {STAR: Ultrafast universal RNA-seq aligner},
+  journal = {Bioinformatics},
+  year    = {2013},
+  volume  = {29},
+  number  = {1},
+  pages   = {15--21},
+  doi     = {10.1093/bioinformatics/bts635}
+}
+
+@article{Cingolani2012_SnpEff,
+  author  = {Cingolani, P. and others},
+  title   = {A program for annotating and predicting the effects of single nucleotide polymorphisms, SnpEff: SNPs in the genome of Drosophila melanogaster strain w1118; iso-2; iso-3},
+  journal = {Fly},
+  year    = {2012},
+  volume  = {6},
+  number  = {2},
+  pages   = {80--92},
+  doi     = {10.4161/fly.19695}
+}
+
+@article{Langmead2012_Bowtie2,
+  author  = {Langmead, B. and Salzberg, S. L.},
+  title   = {Fast gapped-read alignment with Bowtie 2},
+  journal = {Nature Methods},
+  year    = {2012},
+  volume  = {9},
+  number  = {4},
+  pages   = {357--359},
+  doi     = {10.1038/nmeth.1923}
+}
+
+@article{Martin2011_Cutadapt,
+  author  = {Martin, M.},
+  title   = {Cutadapt removes adapter sequences from high-throughput sequencing reads},
+  journal = {EMBnet.journal},
+  year    = {2011},
+  volume  = {17},
+  number  = {1},
+  pages   = {10--12},
+  doi     = {10.14806/ej.17.1.200}
+}
+
+@article{Wang2010_ANNOVAR,
+  author  = {Wang, K. and Li, M. and Hakonarson, H.},
+  title   = {ANNOVAR: Functional annotation of genetic variants from high-throughput sequencing data},
+  journal = {Nucleic Acids Research},
+  year    = {2010},
+  volume  = {38},
+  number  = {16},
+  pages   = {e164},
+  doi     = {10.1093/nar/gkq603}
+}
+
+@article{Li2009_BWA,
+  author  = {Li, H. and Durbin, R.},
+  title   = {Fast and accurate short read alignment with Burrows--Wheeler transform},
+  journal = {Bioinformatics},
+  year    = {2009},
+  volume  = {25},
+  number  = {14},
+  pages   = {1754--1760},
+  doi     = {10.1093/bioinformatics/btp324}
+}
+
+@article{Li2009_SAMtools,
+  author  = {Li, H. and others},
+  title   = {The Sequence Alignment/Map format and SAMtools},
+  journal = {Bioinformatics},
+  year    = {2009},
+  volume  = {25},
+  number  = {16},
+  pages   = {2078--2079},
+  doi     = {10.1093/bioinformatics/btp352}
+}
